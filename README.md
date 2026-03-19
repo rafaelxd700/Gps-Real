@@ -1,21 +1,26 @@
 # SafeCity Map
 
-O SafeCity Map é um sistema voltado para o mapeamento e visualização de áreas de risco em cidades.
-O objetivo é auxiliar a população e órgãos públicos a identificar regiões com maior incidência de problemas como:
+## 📌 Sobre o Projeto
+O SafeCity Map é um sistema que permite mapear e visualizar áreas de risco em uma cidade, como locais com enchentes, criminalidade, acidentes e problemas ambientais.
 
-* enchentes
-* deslizamentos
-* áreas com alta criminalidade
-* riscos ambientais
-* acidentes frequentes
+O objetivo é ajudar a população a evitar riscos e auxiliar órgãos públicos na tomada de decisões.
 
-O sistema permitirá visualizar essas áreas em um mapa interativo, cadastrar novas ocorrências e consultar informações por cidade ou bairro.
+## 👥 Equipe
+- Rafael Del Antonio (Product Owner e Desenvolvedor)
+- Carlos Eduardo (Scrum Master e Desenvolvedor)
 
-Este projeto tem como objetivo aplicar conceitos de planejamento e organização de desenvolvimento de software utilizando:
+## ⚙️ Metodologia
+O projeto foi organizado utilizando Scrum, com divisão de tarefas em Sprints e uso de quadro Kanban no Trello.
 
-* Git
-* GitHub
-* Scrum
-* Trello (Kanban)
+## 🛠️ Ferramentas utilizadas
+- Git
+- GitHub
+- Trello
+- Scrum
 
-Neste momento o foco está no planejamento do sistema, organização das tarefas e colaboração da equipe.
+## 📌 Funcionalidades planejadas
+- Cadastro de usuários
+- Mapa interativo
+- Registro de ocorrências
+- Sistema de denúncias
+- Filtro por tipo de risco
