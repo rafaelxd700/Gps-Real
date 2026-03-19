@@ -1,13 +1,13 @@
-# 🏃 Planejamento da Sprint
+#  Planejamento da Sprint
 
-## 📅 Duração
+## Duração
 1 semana
 
-## 👥 Integrantes
+##  Integrantes
 - Rafael Del Antonio
 - Carlos Eduardo
 
-## 📌 Tarefas da Sprint
+##  Tarefas da Sprint
 
 ### Rafael (PO + Dev)
 - Criar README
@@ -23,9 +23,9 @@
 - Mapa interativo
 - Adicionar pontos no mapa
 
-## 📅 Datas
+##  Datas
 - Início: 20/03
 - Entrega: 27/03
 
-## 📌 Observações
+##  Observações
 Scrum Master responsável por acompanhar andamento e ajudar na organização.
