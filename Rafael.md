@@ -1,24 +1,14 @@
-# Atividades - Rafael (Desenvolvedor)
+# 👨‍💻 Rafael Del Antonio
 
-## Tarefa 1 - Criação do Repositório
+## 📌 Função
+Product Owner e Desenvolvedor
 
-Foi criado o repositório do projeto no GitHub chamado SafeCity Map.
-Foi definida a estrutura inicial contendo os arquivos README.md, Backlog.md e Sprint.md.
+## 📌 Atividades realizadas
+- Criação do backlog do sistema
+- Definição das prioridades
+- Criação do README
+- Planejamento geral do sistema
+- Desenvolvimento da estrutura inicial
 
-Commit realizado: "Criação do repositório e estrutura inicial".
-
----
-
-## Tarefa 2 - Definição do objetivo do sistema
-
-Foi definida a proposta principal do sistema: criar um mapa que identifique áreas de risco nas cidades para auxiliar a população e autoridades.
-
-Commit realizado: "Definição do objetivo do sistema".
-
----
-
-## Tarefa 3 - Planejamento da busca por cidade
-
-Foi planejada a funcionalidade que permitirá ao usuário pesquisar uma cidade e visualizar no mapa as áreas de risco cadastradas.
-
-Commit realizado: "Planejamento da busca por cidade".
+## 📌 Observações
+Responsável pela organização das ideias e definição das funcionalidades principais.
