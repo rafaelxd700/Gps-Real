@@ -1,40 +1,37 @@
-# Product Backlog - SafeCity Map
+# 📋 Backlog do Sistema - SafeCity Map
 
-## Prioridade Alta
+## 🔴 Alta Prioridade
+1. Criar estrutura inicial do projeto
+2. Criar tela inicial
+3. Criar sistema de cadastro
+4. Criar sistema de login
+5. Criar mapa interativo
+6. Permitir adicionar localização de risco
+7. Criar categorias de risco
+8. Exibir pontos no mapa
+9. Criar sistema de denúncias
+10. Criar banco de dados (planejamento)
+11. Criar API (planejamento)
+12. Validação de formulário
+13. Sistema de autenticação
 
-1. Definir objetivo geral do sistema
-2. Definir funcionalidades principais
-3. Criar estrutura inicial do repositório no GitHub
-4. Criar quadro Kanban no Trello
-5. Definir estrutura de pastas do projeto
-6. Definir modelo de cadastro de cidades
-7. Definir modelo de cadastro de áreas de risco
-8. Definir categorias de risco (enchente, deslizamento, criminalidade, etc)
-9. Planejar funcionalidade de visualização no mapa
-10. Planejar sistema de busca por cidade
-11. Planejar sistema de filtro por tipo de risco
-12. Planejar cadastro de novos riscos
-13. Planejar visualização de detalhes de uma área de risco
-14. Definir permissões de usuário
-15. Definir estrutura de banco de dados
+## 🟠 Média Prioridade
+14. Filtro por tipo de risco
+15. Sistema de comentários
+16. Avaliação de locais
+17. Notificações
+18. Perfil do usuário
+19. Histórico de denúncias
+20. Upload de imagens
+21. Interface responsiva
+22. Melhorar design do mapa
+23. Sistema de busca
 
-## Prioridade Média
-
-16. Planejar tela inicial do sistema
-17. Planejar tela de mapa interativo
-18. Planejar tela de cadastro de risco
-19. Planejar tela de listagem de riscos
-20. Planejar tela de login de administrador
-21. Definir padrão de cores para tipos de risco
-22. Planejar sistema de comentários ou denúncias
-23. Planejar sistema de atualização de dados
-24. Definir formato de exportação de dados
-25. Definir sistema de histórico de ocorrências
-
-## Prioridade Baixa
-
-26. Planejar sistema de notificações
-27. Planejar dashboard com estatísticas
-28. Planejar ranking de áreas mais perigosas
-29. Planejar integração com APIs de mapas
-30. Revisar backlog e organizar prioridades
+## 🟢 Baixa Prioridade
+24. Modo escuro
+25. Compartilhamento de localização
+26. Integração com redes sociais
+27. Ranking de usuários
+28. Estatísticas de riscos
+29. Dashboard administrativo
+30. Sistema de feedback
