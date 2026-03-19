@@ -1,4 +1,4 @@
-# 👨‍💻 Rafael Del Antonio
+#  Rafael Del Antonio
 
 ## 📌 Função
 Product Owner e Desenvolvedor
