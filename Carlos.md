@@ -58,3 +58,5 @@ Este documento descreve detalhadamente as atividades realizadas por mim durante 
 ### 16. Definir formato de exportação de dados
 * **Descrição:** Selecionei os formatos PDF (para relatórios visuais) e CSV (para análise de dados bruta) como padrões de saída do sistema.
 
+### 17. Planejar integração com APIS de mapas
+* **Descrição:** Analisei tecnicamente o uso do Google Maps SDK versus Leaflet.js, optando por uma solução que suporte camadas de calor (heatmaps).
