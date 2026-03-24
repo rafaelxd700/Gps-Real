@@ -11,3 +11,4 @@
 8. Definir padrão de cores para tipos de risco
 9. Definir modelo de cadastro de cidades
 10. Definir modelo de cadastro de áreas de risco
+11. Definir estrutura de banco de dados
