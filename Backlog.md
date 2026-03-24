@@ -32,3 +32,4 @@
 ## 🟢 Baixa Prioridade
 26. Planejar dashboard com estatísticas
 27. Planejar ranking de áreas mais perigosas
+28. Planejar sistema de atualização de dados
