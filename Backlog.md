@@ -19,3 +19,4 @@
 
 ## 🟠 Média Prioridade
 16. Planejar tela de login de administrador
+17. Planejar tela de cadastro de risco
