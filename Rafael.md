@@ -61,3 +61,25 @@ Este documento descreve as atividades realizadas durante o planejamento do siste
 ### 14. Planejar listagem de riscos
 * **Descrição:** Defini tela com todos os riscos cadastrados.
 * **Objetivo:** Melhor visualização.
+
+---
+
+## 💻 Atividades como Desenvolvedor
+
+### 15. Criação do README.md
+* **Descrição:** Desenvolvi o arquivo com descrição do projeto.
+* **Objetivo:** Apresentar o sistema.
+
+### 16. Criação do Backlog.md
+* **Descrição:** Organizei 30 tarefas por prioridade.
+* **Objetivo:** Planejar desenvolvimento.
+
+### 17. Organização do repositório
+* **Descrição:** Estruturei arquivos e documentação.
+* **Objetivo:** Facilitar o trabalho em equipe.
+
+---
+
+## 📌 Observações
+
+Atuei como Product Owner e Desenvolvedor, sendo responsável pela organização das funcionalidades, criação do backlog e planejamento geral do sistema. Também contribuí na estruturação do repositório e documentação do projeto.
