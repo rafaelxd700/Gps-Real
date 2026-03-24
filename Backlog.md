@@ -23,3 +23,4 @@
 18. Planejar cadastro de novos riscos
 19. Planejar sistema de busca por cidade
 20. Planejar funcionalidade de visualização no mapa
+21. Planejar sistema de filtro por tipo de risco
