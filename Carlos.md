@@ -39,3 +39,7 @@ Este documento descreve detalhadamente as atividades realizadas por mim durante 
 
 ### 10. Planejar funcionalidade de visualização no mapa
 * **Descrição:** Estabeleci as regras de renderização dos ícones (pins) no mapa, incluindo o comportamento de agrupamento (clustering) para áreas com muitos registros.
+
+### 11. Planejar sistema de filtro por tipo de risco
+* **Descrição:** Desenvolvi a lógica de filtros laterais que permite ao usuário isolar categorias específicas no mapa (ex: ver apenas riscos de criminalidade).
+
