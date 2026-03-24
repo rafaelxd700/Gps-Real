@@ -24,3 +24,7 @@ Este documento descreve detalhadamente as atividades realizadas por mim durante 
 
 ### 05. Definir modelo de cadastro de áreas de risco
 * **Descrição:** Estruturei os campos necessários para identificar uma zona perigosa: coordenadas geográficas, raio de influência, nível de criticidade e descrição da ameaça.
+
+### 06. Definir estrutura de banco de dados
+* **Descrição:** Elaborei o esquema lógico das tabelas (Entidade-Relacionamento), focando nas tabelas de `Usuarios`, `Riscos` e `Logs_de_Atividade`.
+
