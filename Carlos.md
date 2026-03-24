@@ -45,3 +45,7 @@ Este documento descreve detalhadamente as atividades realizadas por mim durante 
 
 ### 12. Planejar visualização de detalhes de uma área
 * **Descrição:** Projetei o modal informativo que exibe o histórico completo, fotos e contatos de emergência vinculados a um ponto de risco selecionado.
+
+### 13. Planejar sistema de comentários ou denúncias
+* **Descrição:** Planejei a seção interativa onde a comunidade pode confirmar a veracidade de um risco ou informar se a situação já foi normalizada.
+
