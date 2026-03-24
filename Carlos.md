@@ -28,3 +28,5 @@ Este documento descreve detalhadamente as atividades realizadas por mim durante 
 ### 06. Definir estrutura de banco de dados
 * **Descrição:** Elaborei o esquema lógico das tabelas (Entidade-Relacionamento), focando nas tabelas de `Usuarios`, `Riscos` e `Logs_de_Atividade`.
 
+### 07. Planejar tela inicial do sistema
+* **Descrição:** Desenhei o fluxo da Home Page, priorizando o acesso rápido à geolocalização do usuário e um resumo visual dos alertas próximos.
