@@ -16,3 +16,5 @@ Este documento apresenta a organização oficial das tarefas, prazos e responsá
 | 04 | Criar estrutura inicial do GitHub | **SM** | Dia 02 | ✅ |
 | 05 | Definir estrutura de pastas do projeto | **Dev 1** | Dia 02 | ⏳ |
 | 06 | Revisar backlog e prioridades | **PO** | Dia 03 | ⏳ |
+| 07 | Definir categorias de risco | **PO** | Dia 03 | ⏳ |
+| 08 | Definir padrão de cores para tipos de risco | **Dev 1** | Dia 04 | ⏳ |
