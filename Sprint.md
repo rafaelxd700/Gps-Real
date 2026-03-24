@@ -24,3 +24,5 @@ Este documento apresenta a organização oficial das tarefas, prazos e responsá
 | 12 | Planejar tela inicial do sistema | **Dev 1** | Dia 06 | ⏳ |
 | 13 | Planejar tela de mapa interativo | **Dev 1** | Dia 06 | ⏳ |
 | 14 | Planejar integração com APIS de mapas | **SM** | Dia 07 | ⏳ |
+| 15 | Definir permissões de usuário | **SM** | Dia 07 | ⏳ |
+| 16 | Planejar tela de login de administrador | **Dev 2** | Dia 08 | ⏳ |
