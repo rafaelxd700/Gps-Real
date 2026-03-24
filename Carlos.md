@@ -55,3 +55,6 @@ Este documento descreve detalhadamente as atividades realizadas por mim durante 
 ### 15. Planejar ranking de áreas mais perigosas
 * **Descrição:** Criei o algoritmo de pontuação que classifica bairros e ruas com base no número de ocorrências acumuladas e na gravidade dos relatos.
 
+### 16. Definir formato de exportação de dados
+* **Descrição:** Selecionei os formatos PDF (para relatórios visuais) e CSV (para análise de dados bruta) como padrões de saída do sistema.
+
