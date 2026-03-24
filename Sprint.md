@@ -18,3 +18,5 @@ Este documento apresenta a organização oficial das tarefas, prazos e responsá
 | 06 | Revisar backlog e prioridades | **PO** | Dia 03 | ⏳ |
 | 07 | Definir categorias de risco | **PO** | Dia 03 | ⏳ |
 | 08 | Definir padrão de cores para tipos de risco | **Dev 1** | Dia 04 | ⏳ |
+| 09 | Definir modelo de cadastro de cidades | **Dev 2** | Dia 04 | ⏳ |
+| 10 | Definir modelo de cadastro de áreas de risco | **Dev 1** | Dia 05 | ⏳ |
