@@ -26,3 +26,5 @@ Este documento apresenta a organização oficial das tarefas, prazos e responsá
 | 14 | Planejar integração com APIS de mapas | **SM** | Dia 07 | ⏳ |
 | 15 | Definir permissões de usuário | **SM** | Dia 07 | ⏳ |
 | 16 | Planejar tela de login de administrador | **Dev 2** | Dia 08 | ⏳ |
+| 17 | Planejar tela de cadastro de risco | **Dev 1** | Dia 08 | ⏳ |
+| 18 | Planejar cadastro de novos riscos | **Dev 1** | Dia 09 | ⏳ |
