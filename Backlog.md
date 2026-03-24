@@ -28,3 +28,6 @@
 23. Definir sistema de histórico de ocorrências
 24. Planejar sistema de comentários ou denúncias
 25. Planejar sistema de notificações
+
+## 🟢 Baixa Prioridade
+26. Planejar dashboard com estatísticas
