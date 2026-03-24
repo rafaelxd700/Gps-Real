@@ -28,3 +28,5 @@ Este documento apresenta a organização oficial das tarefas, prazos e responsá
 | 16 | Planejar tela de login de administrador | **Dev 2** | Dia 08 | ⏳ |
 | 17 | Planejar tela de cadastro de risco | **Dev 1** | Dia 08 | ⏳ |
 | 18 | Planejar cadastro de novos riscos | **Dev 1** | Dia 09 | ⏳ |
+| 19 | Planejar sistema de busca por cidade | **Dev 2** | Dia 09 | ⏳ |
+| 20 | Planejar funcionalidade de visualização no mapa | **Dev 1** | Dia 10 | ⏳ |
