@@ -7,3 +7,4 @@
 4. Criar estrutura inicial do GitHub
 5. Definir estrutura de pastas do projeto
 6. Revisar backlog e prioridades
+7. Definir categorias de risco
