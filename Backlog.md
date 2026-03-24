@@ -25,3 +25,4 @@
 20. Planejar funcionalidade de visualização no mapa
 21. Planejar sistema de filtro por tipo de risco
 22. Planejar visualização de detalhes de uma área
+23. Definir sistema de histórico de ocorrências
