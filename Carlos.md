@@ -37,3 +37,5 @@ Este documento descreve detalhadamente as atividades realizadas por mim durante 
 ### 09. Planejar tela de cadastro de risco
 * **Descrição:** Planejei a interface de entrada de dados, prevendo um seletor de mapa para marcar a localização exata e upload de evidências (fotos).
 
+### 10. Planejar funcionalidade de visualização no mapa
+* **Descrição:** Estabeleci as regras de renderização dos ícones (pins) no mapa, incluindo o comportamento de agrupamento (clustering) para áreas com muitos registros.
