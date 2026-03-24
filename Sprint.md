@@ -20,3 +20,5 @@ Este documento apresenta a organização oficial das tarefas, prazos e responsá
 | 08 | Definir padrão de cores para tipos de risco | **Dev 1** | Dia 04 | ⏳ |
 | 09 | Definir modelo de cadastro de cidades | **Dev 2** | Dia 04 | ⏳ |
 | 10 | Definir modelo de cadastro de áreas de risco | **Dev 1** | Dia 05 | ⏳ |
+| 11 | Definir estrutura de banco de dados | **Dev 2** | Dia 05 | ⏳ |
+| 12 | Planejar tela inicial do sistema | **Dev 1** | Dia 06 | ⏳ |
