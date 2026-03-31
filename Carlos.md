@@ -11,7 +11,7 @@ Este documento descreve detalhadamente as atividades realizadas por mim durante 
 * **Objetivo:** Alinhar a expectativa do grupo e o propósito do software.
 
 ### 02. Criar estrutura inicial do GitHub
-* **Descrição:** Realizei o setup do repositório remoto, configurei as permissões de acesso e criei os arquivos base (`README.md`, `.gitignore`) para o início dos trabalhos.
+* **Descrição:** Realizei o setup do repositório remoto, configurei as permissões de acesso e criei os arquivos base para o início dos trabalhos.
 * **Objetivo:** Garantir um ambiente de versionamento organizado para a equipe.
 
 ### 03. Definir estrutura de pastas do projeto
