@@ -1,12 +1,12 @@
-# 🗓️ Planejamento da Sprint - Projeto SafeCityMap
+# Planejamento da Sprint - Projeto SafeCityMap
 
 Este documento apresenta a organização oficial das tarefas, prazos e responsáveis, conforme definido pelo Scrum Master.
 
-## 👥 Equipe e Funções
+## Equipe e Funções
 * **Integrante 1 (Carlos):** Scrum Master & Desenvolvedor (Dev 1)
 * **Integrante 2 (Rafael):** Product Owner & Desenvolvedor (Dev 2)
 
-## ⏱️ Cronograma Geral de Tarefas (30 Itens)
+## Cronograma Geral de Tarefas (30 Itens)
 
 | ID | Tarefa | Responsável | Entrega | Status |
 |:---|:---|:---|:---|:---|
